@@ -9,5 +9,6 @@ namespace ITCS_3112_Exercise_1
     internal interface INotifier
     {
         void Alert();
+        void PrintDueDates();
     }
 }

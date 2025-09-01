@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Insan\\OneDrive\\Desktop\\ITCS3112\\ITCS-3112-Exercise-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDC3F6-9AE3-1DEA-5D1B-58E5E268ED74}|ITCS_3112_Exercise_1.csproj|c:\\users\\insan\\onedrive\\desktop\\itcs3112\\itcs-3112-exercise-1\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDC3F6-9AE3-1DEA-5D1B-58E5E268ED74}|ITCS_3112_Exercise_1.csproj|solutionrelative:inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDC3F6-9AE3-1DEA-5D1B-58E5E268ED74}|ITCS_3112_Exercise_1.csproj|c:\\users\\insan\\onedrive\\desktop\\itcs3112\\itcs-3112-exercise-1\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDC3F6-9AE3-1DEA-5D1B-58E5E268ED74}|ITCS_3112_Exercise_1.csproj|solutionrelative:repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDC3F6-9AE3-1DEA-5D1B-58E5E268ED74}|ITCS_3112_Exercise_1.csproj|c:\\users\\insan\\onedrive\\desktop\\itcs3112\\itcs-3112-exercise-1\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDC3F6-9AE3-1DEA-5D1B-58E5E268ED74}|ITCS_3112_Exercise_1.csproj|solutionrelative:borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDC3F6-9AE3-1DEA-5D1B-58E5E268ED74}|ITCS_3112_Exercise_1.csproj|c:\\users\\insan\\onedrive\\desktop\\itcs3112\\itcs-3112-exercise-1\\icheckoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDC3F6-9AE3-1DEA-5D1B-58E5E268ED74}|ITCS_3112_Exercise_1.csproj|solutionrelative:icheckoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDC3F6-9AE3-1DEA-5D1B-58E5E268ED74}|ITCS_3112_Exercise_1.csproj|c:\\users\\insan\\onedrive\\desktop\\itcs3112\\itcs-3112-exercise-1\\checkoutrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDC3F6-9AE3-1DEA-5D1B-58E5E268ED74}|ITCS_3112_Exercise_1.csproj|solutionrelative:checkoutrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "INotifier.cs",
+              "DocumentMoniker": "C:\\Users\\Insan\\OneDrive\\Desktop\\ITCS3112\\ITCS-3112-Exercise-1\\INotifier.cs",
+              "RelativeDocumentMoniker": "INotifier.cs",
+              "ToolTip": "C:\\Users\\Insan\\OneDrive\\Desktop\\ITCS3112\\ITCS-3112-Exercise-1\\INotifier.cs",
+              "RelativeToolTip": "INotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T23:29:14.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Insan\\OneDrive\\Desktop\\ITCS3112\\ITCS-3112-Exercise-1\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository.cs",
+              "ToolTip": "C:\\Users\\Insan\\OneDrive\\Desktop\\ITCS3112\\ITCS-3112-Exercise-1\\Repository.cs",
+              "RelativeToolTip": "Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T23:28:12.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Insan\\OneDrive\\Desktop\\ITCS3112\\ITCS-3112-Exercise-1\\CheckoutRecord.cs",
+              "RelativeDocumentMoniker": "CheckoutRecord.cs",
+              "ToolTip": "C:\\Users\\Insan\\OneDrive\\Desktop\\ITCS3112\\ITCS-3112-Exercise-1\\CheckoutRecord.cs",
+              "RelativeToolTip": "CheckoutRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T23:10:12.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICheckoutService.cs",
+              "DocumentMoniker": "C:\\Users\\Insan\\OneDrive\\Desktop\\ITCS3112\\ITCS-3112-Exercise-1\\ICheckoutService.cs",
+              "RelativeDocumentMoniker": "ICheckoutService.cs",
+              "ToolTip": "C:\\Users\\Insan\\OneDrive\\Desktop\\ITCS3112\\ITCS-3112-Exercise-1\\ICheckoutService.cs",
+              "RelativeToolTip": "ICheckoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T23:02:04.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\Insan\\OneDrive\\Desktop\\ITCS3112\\ITCS-3112-Exercise-1\\Borrower.cs",
+              "RelativeDocumentMoniker": "Borrower.cs",
+              "ToolTip": "C:\\Users\\Insan\\OneDrive\\Desktop\\ITCS3112\\ITCS-3112-Exercise-1\\Borrower.cs",
+              "RelativeToolTip": "Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T22:59:55.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

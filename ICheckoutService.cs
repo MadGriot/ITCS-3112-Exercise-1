@@ -8,6 +8,6 @@ namespace ITCS_3112_Exercise_1
 {
     public interface ICheckoutService
     {
-        CheckoutRecord Checkout(Repository repository);
+        Reciept Checkout(Repository repository, CheckoutRecord checkoutRecord);
     }
 }
